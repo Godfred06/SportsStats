@@ -65,3 +65,27 @@ Developing of Project Proposal
     •	How many medals have the top 50 in events participation won in these games all time?
     •	What is the winning percentage for the top 50 in events participation all time?
 
+
+
+General Insights generated from the Data.
+#Created a powerpoint presentation for the insights gained from the data. Which I wil attach its link to the work.
+
+
+Correlation
+  •	There is a strong positive correlation between the Number of events participated in and the number of medals won for the countries who have participated in these (0.93)
+  •	There also is a weak but positive correlation between the number of events participated in and the number of medals won for the individual participants (0.13)
+Broader details
+  •	Although, the United States that the highest number of events participated in and also the highest number of medals won, Russia had the highest winning percentage      for the games that they participated in. 
+  •	Also, Robert Tait McKenzie had the highest number of events participated in but had only one medal won. For the top 50 athletes in event participation, for persons     who had participated in more than 15 events, Michael Phelps had the highest winning percentage. He won a medal in 28 of the 30 games that he has participated in 
+Descriptive stats being considered
+•	The number of events that each participant has taken part in
+
+
+New metric being created
+Medal won metric. 
+Initial hypothesis was that participating in multiple events increased one’s chance of actually winning a medal. 
+So the metric was created using the events participated table and the winners table to check the participants who had won a medal against the number of events that they had participated in. 
+
+
+
+
